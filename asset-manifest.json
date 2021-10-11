@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ipmteawebsite/static/css/main.412d3c21.chunk.css",
+    "main.js": "/ipmteawebsite/static/js/main.26d56b07.chunk.js",
+    "main.js.map": "/ipmteawebsite/static/js/main.26d56b07.chunk.js.map",
+    "runtime-main.js": "/ipmteawebsite/static/js/runtime-main.d240b99b.js",
+    "runtime-main.js.map": "/ipmteawebsite/static/js/runtime-main.d240b99b.js.map",
+    "static/js/2.db2ab31d.chunk.js": "/ipmteawebsite/static/js/2.db2ab31d.chunk.js",
+    "static/js/2.db2ab31d.chunk.js.map": "/ipmteawebsite/static/js/2.db2ab31d.chunk.js.map",
+    "index.html": "/ipmteawebsite/index.html",
+    "static/css/main.412d3c21.chunk.css.map": "/ipmteawebsite/static/css/main.412d3c21.chunk.css.map",
+    "static/js/2.db2ab31d.chunk.js.LICENSE.txt": "/ipmteawebsite/static/js/2.db2ab31d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/ipmteawebsite/static/media/header.179e95ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d240b99b.js",
+    "static/js/2.db2ab31d.chunk.js",
+    "static/css/main.412d3c21.chunk.css",
+    "static/js/main.26d56b07.chunk.js"
+  ]
+}
